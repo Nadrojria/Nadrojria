@@ -1,3 +1,4 @@
+## 👨‍💻 Qui suis-je ?
 
 **Ex-infirmier coordinateur devenu développeur**, je soigne désormais la qualité du code.  
 Actuellement en formation **full-stack** chez Ada Tech School, je me spécialise dans le **développement web** avec une attention particulière pour la **rigueur**, le **travail en équipe**, et l'**adaptabilité**.
