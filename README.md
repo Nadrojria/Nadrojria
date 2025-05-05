@@ -1,4 +1,3 @@
-# 👨‍💻 Loïc Desbordes
 
 **Ex-infirmier coordinateur devenu développeur**, je soigne désormais la qualité du code.  
 Actuellement en formation **full-stack** chez Ada Tech School, je me spécialise dans le **développement web** avec une attention particulière pour la **rigueur**, le **travail en équipe**, et l'**adaptabilité**.
@@ -25,12 +24,11 @@ Actuellement à la recherche d’une **alternance de 12 à 36 mois** à partir d
 
 ## 🤝 Contact
 
-<!-- Remplis avec tes liens personnels -->
 - 📧 Email : [loicdesbordes@yahoo.com](mailto:loicdesbordes@yahoo.com)
 - 💼 LinkedIn : [Mon Profil](https://www.linkedin.com/in/loïc-desbordes-developpeur)
 
 ---
 
-> ✨ Curieux, adaptable et toujours prêt à apprendre, je suis prêt à embarquer dans de nouveaux projets tech, et à faire équipe pour les mener à bien.
+✨ Curieux, adaptable et toujours prêt à apprendre, je suis prêt à embarquer dans de nouveaux projets tech, et à faire équipe pour les mener à bien.
 
 
