@@ -1,6 +1,6 @@
 # 👨‍💻 Loïc Desbordes
 
-**Ex-infirmier devenu développeur**, je soigne désormais la qualité du code.  
+**Ex-infirmier coordinateur devenu développeur**, je soigne désormais la qualité du code.  
 Actuellement en formation **full-stack** chez Ada Tech School, je me spécialise dans le **développement web** avec une attention particulière pour la **rigueur**, le **travail en équipe**, et l'**adaptabilité**.
 
 Après 6 ans en tant qu'infirmier coordinateur, j'ai troqué les protocoles de soins pour les méthodes agiles et le versioning Git.  
