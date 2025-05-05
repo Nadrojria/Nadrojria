@@ -27,7 +27,7 @@ Actuellement à la recherche d’une **alternance de 12 à 36 mois** à partir d
 
 <!-- Remplis avec tes liens personnels -->
 - 📧 Email : [loicdesbordes@yahoo.com](mailto:loicdesbordes@yahoo.com)
-- 💼 LinkedIn : [Mon Profil](www.linkedin.com/in/loïc-desbordes-developpeur)
+- 💼 LinkedIn : [Mon Profil](https://www.linkedin.com/in/loïc-desbordes-developpeur)
 
 ---
 
