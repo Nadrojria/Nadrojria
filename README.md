@@ -11,7 +11,7 @@ J’aime comprendre comment les choses fonctionnent, les améliorer, et les rend
 ## 🛠️ Stack & Outils
 
 - Langages : `HTML/CSS`, `JS`, `SQL`
-- Frameworks / Libs : `Vue.js`, `React`, `Laravel`
+- Frameworks / Libs : `Vue.js`, `React`, `Laravel`, `Bootstrap`
 - Environnements : `Git`, `Linux`, `VSCode`
 - Méthodes : `Agile`, `Scrum`, `TDD`
 
