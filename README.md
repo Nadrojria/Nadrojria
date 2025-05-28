@@ -10,9 +10,9 @@ J’aime comprendre comment les choses fonctionnent, les améliorer, et les rend
 
 ## 🛠️ Stack & Outils
 
-- Langages : `HTML/CSS`, `JS`, `SQL`, `Java`
-- Frameworks / Libs : `Vue.js`, `React`, `Laravel`, `Bootstrap`
-- Environnements : `Git`, `Linux`, `VSCode`
+- Langages : `HTML/CSS`, `JS`, `SQL`, `Java`, `Python`, `PHP`  
+- Frameworks / Libs : `Tailwind CSS`, `Bootstrap`, `Vue.js`, `React`, `PostgreSQL - MySQL`, `Spring`, `Laravel`  
+- Environnements : `Git`, `Linux`, `VSCode`, `IntelliJ`, `Postman`  
 - Méthodes : `Agile`, `Scrum`, `TDD`
 
 ---
