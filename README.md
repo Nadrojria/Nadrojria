@@ -6,7 +6,8 @@
 
 **🛠️ Stack & Outils**
 - Langages : `HTML/CSS`, `JS`, `SQL`, `Java`, `Python`, `PHP`  
-- Frameworks / Libs : `Tailwind CSS`, `Bootstrap`, `PostgreSQL - MySQL`, `Spring`  
+- Frameworks / Libs : `Tailwind CSS`, `Bootstrap`, `Vue.js`, `React`, `Spring`, `Laravel`
+- Base de données : `MySQL`, `PostgreSQL`  
 - Environnements : `Git`, `Linux`, `VSCode`, `IntelliJ`, `Postman`  
 - Méthodes : `Agile`, `Scrum`, `TDD`
 
