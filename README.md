@@ -8,7 +8,7 @@
 - Langages : `HTML/CSS`, `JS`, `SQL`, `Java`, `Python`, `PHP`  
 - Frameworks / Libs : `Tailwind CSS`, `Bootstrap`, `Vue.js`, `React`, `Spring`, `Laravel`
 - Base de données : `MySQL`, `PostgreSQL`  
-- Environnements : `Git`, `Linux`, `VSCode`, `IntelliJ`, `Postman`  
+- Environnements : `Git`, `Linux`, `VSCode`, `IntelliJ`, `Postman`   
 - Méthodes : `Agile`, `Scrum`, `TDD`
 
 📫 [loicdesbordes@yahoo.com](mailto:loicdesbordes@yahoo.com) | [LinkedIn](https://www.linkedin.com/in/loïc-desbordes-developpeur)  
