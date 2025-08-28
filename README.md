@@ -2,7 +2,7 @@
 
 🩺 Ex‑infirmier coordinateur devenu développeur full‑stack (Ada Tech School) – Rigueur, esprit d’équipe et adaptabilité. 
 
-🔎 En alternance à partir d' **octobre 2025**, pour poursuivre mon parcours vers le titre de **Concepteur Développeur d’Applications** (niveau Bac+3/4), avec l’objectif d’atteindre un **master Expert en Architecture & Développement Logiciel** (niveau Bac+5).
+🔎 En alternance à partir d'**octobre 2025**, pour poursuivre mon parcours vers le titre de **Concepteur Développeur d’Applications** (niveau Bac+3/4), avec l’objectif d’atteindre un **master Expert en Architecture & Développement Logiciel** (niveau Bac+5).
 
 **🛠️ Stack & Outils**
 - Langages : `HTML/CSS`, `JS`, `SQL`, `Java`, `Python`, `PHP`, `Kotlin`
