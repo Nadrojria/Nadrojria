@@ -6,7 +6,7 @@
 
 **🛠️ Stack & Outils**
 - Langages : `HTML/CSS`, `JS`, `SQL`, `Java`, `Python`, `PHP`, `Kotlin`, `Go`
-- Frameworks / Libs : `Tailwind CSS`, `Bootstrap`, `Vue.js`, `React`, `Spring`, `Laravel`, `Gin`
+- Frameworks / Libs : `Tailwind CSS`, `Bootstrap`, `Vue.js`, `React`, `Spring`, `Laravel`, `Android Jetpack Compose`, `Gin`
 - Base de données : `MySQL`, `PostgreSQL`, `SQLite`
 - Environnements : `Git`, `Linux`, `VSCode`, `IntelliJ`, `Android Studio`, `Postman`   
 - Méthodes : `Agile`, `Scrum`, `TDD`
